@@ -1,0 +1,27 @@
+.header-gradient {
+    background-image: linear-gradient(to right, #465ab8, #261360);
+    color: white;
+  }
+  
+.search {
+    background-color: #6991e3;
+    border-color: #6991e3;
+}
+
+.cityButton {
+    background-color: #aeaeae;
+    border-color: #aeaeae;
+    color: black;
+}
+
+.cityButton:hover {
+    background-color: #6e6e6e;
+    border-color: #6e6e6e;
+}
+
+.fiveCard {
+    background-color: #323d4f;
+    color: white;
+    padding: 2px;
+    margin: 1px;
+}
